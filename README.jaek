@@ -1,28 +1,15 @@
 [
   {
-    "زمان": "06:21",
-    "پروژه": "خوش",
-    "سطح": "حرفه‌ای",
-    "متن": "آموزش رنگ زدن مو😍😍💇🏼‍♀️",
-    "لینک": "https://www.aparat.com/v/PU8Rp",
+    "زمان": "00:38",
+    "پروژه": "ندارد",
+    "سطح": "متوسط",
+    "متن": "گرافیک به لاینر متن و...",
+    "لینک": "https://www.aparat.com/v/lqbo8",
     "توضیح": "اموزش اینکه چگونه موهای خود را رنگ کنیم با چه چیزی",
-    "فرمت پروژه": "se",
-    "کد1": "سلام خوبید",
-    "کد2": "چطورید",
+    "فرمت پروژه": "",
+    "کد1": "android.graphics.drawable.GradientDrawable sketchwarehelper8375 \u003d new android.graphics.drawable.GradientDrawable();\n\nsketchwarehelper8375.setColor(Color.parseColor(\"#00C853\"));\nsketchwarehelper8375.setCornerRadius(100);\nbutton1.setElevation(50);\nbutton1.setBackground(sketchwarehelper8375);",
+    "کد2": "",
     "کد3": "",
-    "دانلود": "https://caspian5.cdn.asset.aparat.com/aparat-video/1f7e25998e530317b1c04aed01a462d143536382-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImM5Zjc5YjBhMmM4MTVkMjk1MmFhYzU3OTE5M2JlZmFjIiwiZXhwIjoxNjU1NjY1OTIzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.yzA1LAS7IgcW2Jtm7W7ecLeytl4KVDL0z6r4mUeUCGg"
-  },
-  {
-    "زمان": "06:21",
-    "پروژه": "خوش",
-    "سطح": "حرفه‌ای",
-    "متن": "تغییر نام فیلم بالا",
-    "لینک": "https://www.aparat.com/v/PU8Rp",
-    "توضیح": "اموزش اینکه چگونه موهای خود را رنگ کنیم با چه چیزی",
-    "فرمت پروژه": "se",
-    "کد1": "سلام خوبید",
-    "کد2": "چطورید",
-    "کد3": "",
-    "دانلود": "https://caspian5.cdn.asset.aparat.com/aparat-video/1f7e25998e530317b1c04aed01a462d143536382-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImM5Zjc5YjBhMmM4MTVkMjk1MmFhYzU3OTE5M2JlZmFjIiwiZXhwIjoxNjU1NjY1OTIzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.yzA1LAS7IgcW2Jtm7W7ecLeytl4KVDL0z6r4mUeUCGg"
+    "دانلود": "https://hajifirouz1.asset.aparat.com/aparat-video/7d2b424f78e3ff755f60babcb870c22a45771203-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjlhNzcxYTA2ZjhiNDMzYmNkMWNmMmFiMGJiODRmMjkyIiwiZXhwIjoxNjU1OTI3NTEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.-edTLuDEzlLEo_Hqcvfll2x0b01hkkho-xfyWyAAzis"
   }
 ]
