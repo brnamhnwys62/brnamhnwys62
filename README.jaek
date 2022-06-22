@@ -5,7 +5,7 @@
     "سطح": "متوسط",
     "متن": "گرافیک به لاینر متن و...",
     "لینک": "https://www.aparat.com/v/lqbo8",
-    "توضیح": "اموزش اینکه چگونه موهای خود را رنگ کنیم با چه چیزی",
+    "توضیح": "گرافیک به لاینر سایه دادن گرد کردن باتون گرافیک به متن",
     "فرمت پروژه": "",
     "کد1": "android.graphics.drawable.GradientDrawable sketchwarehelper8375 \u003d new android.graphics.drawable.GradientDrawable();\n\nsketchwarehelper8375.setColor(Color.parseColor(\"#00C853\"));\nsketchwarehelper8375.setCornerRadius(100);\nbutton1.setElevation(50);\nbutton1.setBackground(sketchwarehelper8375);",
     "کد2": "",
