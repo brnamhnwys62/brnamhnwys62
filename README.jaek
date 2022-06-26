@@ -245,5 +245,31 @@
     "کد2": "",
     "کد3": "",
     "دانلود": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/279fb7ece7122ace276f2b15c9cdad5d45867610-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY4ODllZjRlZGRhNWM3ZjAzY2IxN2IwYTBlMDllODc2IiwiZXhwIjoxNjU2Mjc2NjEwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.MCNJfFveCnWtDTsObNyumBqvqoUZcJE2PJBnRFjXwr4"
+  },
+  {
+    "زمان": "01:19",
+    "پروژه": "ندارد",
+    "سطح": "حرفه‌ای",
+    "متن": "تغییر صدای گوشی با سیکبار",
+    "لینک": "https://www.aparat.com/v/Gh50X",
+    "توضیح": "تغییر صدای گوشی با سیکبار",
+    "فرمت پروژه": "",
+    "کد1": "audioManager \u003d (AudioManager) getSystemService(Context.AUDIO_SERVICE); seekbar1.setMax(audioManager.getStreamMaxVolume(AudioManager.STREAM_MUSIC));\n\n}\n\nAudioManager audioManager;\n\nprivate void nothing() {",
+    "کد2": "textview1.setText(\"صدای رسانه : \" + _progressValue);\n\naudioManager.setStreamVolume(AudioManager.STREAM_MUSIC, _progressValue, 0);",
+    "کد3": "",
+    "دانلود": "https://hajifirouz11.cdn.asset.aparat.com/aparat-video/521da8b560d871dc34e98fd09ba6209a45867875-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjlmODcxMmU3MmFjZjY5YThmNGEyNzUzMmJlMDZjMTA5IiwiZXhwIjoxNjU2Mjc3MjU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.IytnnNgXSqF1lg_adTZBIr-lUZKYzPAlc_wWo7zUelI"
+  },
+  {
+    "زمان": "01:30",
+    "پروژه": "ندارد",
+    "سطح": "معمولی",
+    "متن": "تشخیص کد رنگ",
+    "لینک": "https://www.aparat.com/v/82a1r",
+    "توضیح": "تشخیص کد های رنگ برای استفاده در برنامه با بلوک های هلو تیم",
+    "فرمت پروژه": "",
+    "کد1": "",
+    "کد2": "",
+    "کد3": "",
+    "دانلود": "https://hajifirouz9.cdn.asset.aparat.com/aparat-video/462e84bc76f91ac4582bf37e283d4ba645867904-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM0MzEzM2NlNTZkY2IxOTFjNTAxNTI4MzA1NTU0ZjU4IiwiZXhwIjoxNjU2Mjc3NTQzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.REeRkfglQkJ4C8cN9Y952V6QPLO8K2tVEXMfuVPge7Y"
   }
 ]
