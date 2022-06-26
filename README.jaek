@@ -345,7 +345,7 @@
     "لینک": "https://www.aparat.com/v/DYGVs",
     "توضیح": "نمایش دمای باطری گوشی درصد داغی باطری",
     "فرمت پروژه": "",
-    "کد1": "",
+    "کد1": "IntentFilter ifilter \u003d new IntentFilter(Intent.ACTION_BATTERY_CHANGED);\nIntent batteryStatus \u003d registerReceiver(null, ifilter);\nint temp \u003d batteryStatus.getIntExtra(BatteryManager.EXTRA_TEMPERATURE,0);\nfloat tempTwo \u003d ((float) temp) / 10;\ntextview1.setText(tempTwo + \" °C\");",
     "کد2": "",
     "کد3": "",
     "دانلود": "https://hajifirouz12.cdn.asset.aparat.com/aparat-video/053b04083eac0edfacf11a84410684d645872340-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI5Y2RmNjg4N2JhYjRlYzY4NTkzYTg1Y2RlNzc2NmE3IiwiZXhwIjoxNjU2MjkxOTA1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LHp_ZfuSEPfuNiKtTJ-_dJD2gsZz6KdERIQpDofKAJ8"
