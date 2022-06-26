@@ -219,5 +219,18 @@
     "کد2": "",
     "کد3": "",
     "دانلود": "https://hajifirouz10.cdn.asset.aparat.com/aparat-video/dcf12616824fe6789eccb29ca563273345867350-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVmYmM3ZjEwMDgxNDk1NTM2NDA0ZjdmNDlmOGM0Yzc5IiwiZXhwIjoxNjU2Mjc1NDM5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.rhrNy8I7z27Bi4_Hvqx-DqqNtD1gCAeuFAmukc-QYNk"
+  },
+  {
+    "زمان": "01:35",
+    "پروژه": "ندارد",
+    "سطح": "مبتدی",
+    "متن": "منو کشویی از سمت راست",
+    "لینک": "https://www.aparat.com/v/r7LAj",
+    "توضیح": "تغییر جهت منو کشویی از سمت راست برنامه",
+    "فرمت پروژه": "",
+    "کد1": "_toolbar.setNavigationOnClickListener(new View.OnClickListener() {\n\t\n\t@Override\n\t\n\tpublic void onClick(View _v) {\n\t\t\n\t\t_drawer.openDrawer(Gravity.RIGHT);\n\t\t\n\t}\n\t\n});\n\nLinearLayout _nav_view \u003d (LinearLayout) findViewById(R.id._nav_view);\n\nandroidx.drawerlayout.widget.DrawerLayout\n\n.LayoutParams lp \u003d new androidx.drawerlayout.widget.DrawerLayout\n\n.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT);\n\nlp.gravity\u003dGravity.RIGHT;\n\n_nav_view.setLayoutParams(lp);",
+    "کد2": "",
+    "کد3": "",
+    "دانلود": "https://hajifirouz12.cdn.asset.aparat.com/aparat-video/56f51b9a731b0ecec20d8964a5b6626f45867368-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRlZTZhYWNhMmRlNWM0YTZlZDRhNjM4NWU5YWIwZGY4IiwiZXhwIjoxNjU2Mjc1NjkwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.ZLryYxw12YHRjgMWyF246M2Gy7oG83IL2qdbF69NTIs"
   }
 ]
