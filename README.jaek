@@ -388,5 +388,18 @@
     "کد2": "",
     "کد3": "",
     "دانلود": "https://hajifirouz7.cdn.asset.aparat.com/aparat-video/da0c846daa27d33acf267633dab123c045925607-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVlNTI1NzU4YTU0MGUxNDBmOTY3YmIxZjA3NWZjNWJlIiwiZXhwIjoxNjU2NTA2NzYxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.f7ITVcQj4G8yx32Djd7Cxw49QRf_lQFFmQpqzd49IBA"
+  },
+  {
+    "زمان": "01:15",
+    "پروژه": "ندارد",
+    "سطح": "حرفه‌ای",
+    "متن": "جستجو لیست ویو",
+    "لینک": "https://www.aparat.com/v/4bHil",
+    "توضیح": "اموزش جستجو لیست ویو که اگر کاربر به دنبال چیزی بود با جستجو آن را به راحتی بتواند پیدا کند",
+    "فرمت پروژه": "",
+    "کد1": "((ArrayAdapter)%s.getAdapter()).getFilter().filter(%s.getText().toString());",
+    "کد2": "",
+    "کد3": "",
+    "دانلود": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/678be7e8ac97ae8ed989c0b37161feb945925648-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA5OWQxNTMxY2RiMGY0NDYxNzFhNWU2YzkxMmFlNGNmIiwiZXhwIjoxNjU2NTA3MjU0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LQj768VoQG2xlbTtyGZJuUULd_UbFFTjaM6PSEvJKX4"
   }
 ] 
