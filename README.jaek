@@ -479,5 +479,83 @@
     "کد2": "",
     "کد3": "",
     "دانلود": "https://hajifirouz9.cdn.asset.aparat.com/aparat-video/897d07da38fb19d36078bcbfda51cc0e45962554-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ1OWRjMDNiYjEzYjRlNmExZDFjOTQ1NWI4OTQ2MzdlIiwiZXhwIjoxNjU2ODczNTM5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.5KFKemOVC9xXtaJg3uW155S-Ytx2BEf2e7jKq_gxTos"
+  },
+  {
+    "زمان": "00:47",
+    "پروژه": "",
+    "سطح": "متوسط",
+    "متن": "ایجاد پوشه شخصی در برنامه",
+    "لینک": "https://www.aparat.com/v/mWMDb",
+    "توضیح": "ایجاد فایل شخصی در برنامه با وارد شدن به برنامه فایل ایجاد میشود",
+    "فرمت پروژه": "",
+    "کد1": "",
+    "کد2": "",
+    "کد3": "",
+    "دانلود": ""
+  },
+  {
+    "زمان": "00:47",
+    "پروژه": "",
+    "سطح": "متوسط",
+    "متن": "ایجاد پوشه شخصی در برنامه",
+    "لینک": "https://www.aparat.com/v/mWMDb",
+    "توضیح": "ایجاد فایل شخصی در برنامه با وارد شدن به برنامه فایل ایجاد میشود",
+    "فرمت پروژه": "",
+    "کد1": "",
+    "کد2": "",
+    "کد3": "",
+    "دانلود": "https://hajifirouz10.asset.aparat.com/aparat-video/0d961201a1b6d6a8f6dac40e669b7d7f46067958-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImIxZDQ0ZGIxNjIxZjMyODMzMjdhM2Y3MDg2OGZiZGRlIiwiZXhwIjoxNjU3MDU3OTEwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.qkLFFK0tOHrYqOF99Y-mKrZCoR_nrA2TT0UuJJ2l_6Y"
+  },
+  {
+    "زمان": "00:43",
+    "پروژه": "",
+    "سطح": "مبتدی",
+    "متن": "اشتراک گذاری متن",
+    "لینک": "https://www.aparat.com/v/FlVtK",
+    "توضیح": "اشتراک گذاری متن در اپلیکیشن های اجتماعی و...",
+    "فرمت پروژه": "",
+    "کد1": "Intent shareIntent \u003d new Intent(Intent.ACTION_SEND); shareIntent.setType(\"text/plain\"); shareIntent.putExtra(Intent.EXTRA_TEXT, (\"متن دلخواه\"));\nstartActivity(Intent.createChooser(shareIntent, \"\"));",
+    "کد2": "",
+    "کد3": "",
+    "دانلود": "https://hajifirouz12.asset.aparat.com/aparat-video/82808eae562eda6bfb89dcf25badddc546067983-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFiZjU4N2JkNDBmMzYwZmRlYWI1MzRjN2I4ZjJjNDRmIiwiZXhwIjoxNjU3MDU4MDQyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.e2-JcKCx05Rk0MgKxisbC0NchN2Ao4YGuENQkmWQgt8"
+  },
+  {
+    "زمان": "00:43",
+    "پروژه": "",
+    "سطح": "متوسط",
+    "متن": "انتخاب ساعت با کلیک روی باتون",
+    "لینک": "https://www.aparat.com/v/INTnD",
+    "توضیح": "انتخاب ساعت برای تقویم با کلیک بر روی باتون در برنامه",
+    "فرمت پروژه": "",
+    "کد1": "",
+    "کد2": "",
+    "کد3": "",
+    "دانلود": "https://hajifirouz1.asset.aparat.com/aparat-video/4a7cf03a8f4c5e844350b56551cf3ad946068009-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImE0YTRiNGJlYjRiYjJhZjljZTJjMzkzOTc5NmIxODczIiwiZXhwIjoxNjU3MDU4MjkyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SWo-IS1OgKdMC6_oTR6tltdi8bgZFpbLqB0AmUzPnDQ"
+  },
+  {
+    "زمان": "01:08",
+    "پروژه": "",
+    "سطح": "حرفه‌ای",
+    "متن": "نمایش برنامه های گوشی و حذف آن",
+    "لینک": "https://www.aparat.com/v/KDOVb",
+    "توضیح": "نمایش برنامه های نصب شده در داخل برنامه و انتخاب حذف آن",
+    "فرمت پروژه": "",
+    "کد1": "Intent startupIntent \u003d new Intent(Intent.ACTION_MAIN); \t\tstartupIntent.addCategory(Intent.CATEGORY_LAUNCHER);  \t\tfinal android.content.pm.PackageManager pm \u003d getPackageManager(); \t\tList\u003candroid.content.pm.ResolveInfo\u003e activities \u003d pm.queryIntentActivities(startupIntent,0);   \t\tCollections.sort(activities, new Comparator\u003candroid.content.pm.ResolveInfo\u003e() {  \t\t\t\tpublic int compare(android.content.pm.ResolveInfo a, android.content.pm.ResolveInfo b) {  \t\t\t\t\tandroid.content.pm.PackageManager pm \u003d getPackageManager();  \t\t\t\t\treturn String.CASE_INSENSITIVE_ORDER.compare(  \t\t\t\t\t\ta.loadLabel(pm).toString(),  \t\t\t\t\t\tb.loadLabel(pm).toString());  \t\t\t\t}  \t\t\t});   \t\tArrayAdapter\u003candroid.content.pm.ResolveInfo\u003e adapter \u003d new ArrayAdapter\u003candroid.content.pm.ResolveInfo\u003e(  \t\t\tthis, android.R.layout.simple_list_item_1, activities) {  \t\t\tpublic View getView(int pos, View convertView, ViewGroup parent) { TextView tv \u003d new TextView(MainActivity.this);  \t\t\t\tandroid.content.pm.ResolveInfo ri \u003d getItem(pos);  \t\t\ttv.setText(ri.loadLabel(pm));  \tLinearLayout lin \u003d new LinearLayout(MainActivity.this);ImageView iv \u003d new ImageView(MainActivity.this);iv.setImageDrawable(ri.loadIcon(pm));lin.addView(iv);lin.addView(tv);tv.setGravity(Gravity.CENTER_VERTICAL);tv.setPadding(16,0,0,0);tv.setTextSize(16);tv.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,LinearLayout.LayoutParams.MATCH_PARENT ));LinearLayout.LayoutParams p \u003d\tnew LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,LinearLayout.LayoutParams.MATCH_PARENT);p.width \u003d 70;p.height \u003d 70;p.bottomMargin \u003d 4;p.topMargin \u003d 4;iv.setLayoutParams(p);lin.setPadding(6,6,6,6);return lin;  \t\t\t}  \t\t};  \t\tlistview1.setAdapter(adapter); \t\t \t\tlistview1.setOnItemClickListener(new AdapterView.OnItemClickListener() {  \t\t\t\t@Override \t\t\t\tpublic void onItemClick(AdapterView adapter, View v, int position, long id) \t\t\t\t{ \t\t\t\t\tandroid.content.pm.ResolveInfo resolveInfo \u003d (android.content.pm.ResolveInfo)adapter.getItemAtPosition(position);  \t\t\t\t\tandroid.content.pm.ActivityInfo activityInfo \u003d resolveInfo.activityInfo;  \t\t\t\t\tif (activityInfo \u003d\u003d null) return;  \t\t\t\t\tUri packageURI \u003d Uri.parse(\"package:\".concat(activityInfo.applicationInfo.packageName)); Intent uninstallIntent \u003d new Intent(Intent.ACTION_DELETE, packageURI); startActivity(uninstallIntent); \t\t\t\t}  \t\t\t \t\t});;",
+    "کد2": "",
+    "کد3": "",
+    "دانلود": "https://hajifirouz5.asset.aparat.com/aparat-video/03f9bfa42f85c7c77245b94a14f1f13246068209-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRmMmExNGNkMTU2NDZlZDUxZjMxZTZiMDUyOWQ0ZmJkIiwiZXhwIjoxNjU3MDU4NzczLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.bvnuAaoKGgprzE_-5VtrpwFk_6VE4UOZryovyKaaNi0"
+  },
+  {
+    "زمان": "02:12",
+    "پروژه": "",
+    "سطح": "مبتدی",
+    "متن": "روشن کردن بلوتوث داخل برنامه",
+    "لینک": "https://www.aparat.com/v/KDOVb",
+    "توضیح": "روشن کردن بلوثوث داخل برنامه برای برنامه هایی که با بلوتوث ساخته میشود بسیار کاربردی است",
+    "فرمت پروژه": "",
+    "کد1": "",
+    "کد2": "",
+    "کد3": "",
+    "دانلود": "https://hajifirouz7.asset.aparat.com/aparat-video/3c4cfc26bb959c106bd41351a459a38146068222-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImVlNWM0Y2NhZGY0MWEzNWJkMzYwYTgxOTczZTI4ODkwIiwiZXhwIjoxNjU3MDU5MDAzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.zbjYg2RkWO9pbhIG9NVUZl6yxY6qd81h71TZWVE_jkI"
   }
 ] 
