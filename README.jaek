@@ -570,5 +570,18 @@
     "کد2": "",
     "کد3": "",
     "دانلود": "https://persian3.asset.aparat.com/aparat-video/0d7f2fa343c11a77a1698018dd9d2e8347236673-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVhZGZmZTQxMjhkMzE1OTVjMWE4YjRjNGVhNDA5OTczIiwiZXhwIjoxNjc2MzUyOTY4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Y9W4Vw96xDF2FgiYoCnxyqM2yWBdXritAqWbbczWiic"
+  },
+  {
+    "زمان": "08:09",
+    "پروژه": "",
+    "سطح": "حرفه‌ای",
+    "متن": "دریافت حجم فایل",
+    "لینک": "https://www.aparat.com/v/aKsgV",
+    "توضیح": "با انتخاب فایل از بین فایل های گوشی برنامه میتواند حجم فایل انتخاب شده را دریافت کند",
+    "فرمت پروژه": "",
+    "کد1": "/*\nsketchware jaek\n*/\nfile \u003d new java.io.File(_r);\n    if (file \u003d\u003d null || !file.exists())\n        return 0;\n    if (!file.isDirectory())\n        return file.length();\n    final List\u003cjava.io.File\u003e dirs \u003d new LinkedList\u003c\u003e();\n    dirs.add(file);\n    long result \u003d 0;\n    while (!dirs.isEmpty()) {\n        final java.io.File dir \u003d dirs.remove(0);\n        if (!dir.exists())\n            continue;\n        final java.io.File[] listFiles \u003d dir.listFiles();\n        if (listFiles \u003d\u003d null || listFiles.length \u003d\u003d 0)\n            continue;\n        for (final java.io.File child : listFiles) {\n            result +\u003d child.length();\n            if (child.isDirectory())\n                dirs.add(child);\n        }\n    }\n    return result;\n\t}\n\tprivate java.io.File file;\n\t{",
+    "کد2": "",
+    "کد3": "",
+    "دانلود": "https://hajifirouz10.cdn.asset.aparat.com/aparat-video/607e714439c4427473c5ca4d546f701350604475-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjdlZTE1Y2EyNGQ1ODhiNDdhOWMwZmMwNGQ5YzRhMWEzIiwiZXhwIjoxNjc3MTk3ODc5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.fqMM3EeIMcqmLPX_G0RINCc7j02bru82ObhedUdnBss"
   }
 ] 
