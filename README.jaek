@@ -7,10 +7,10 @@
     "لینک": "https://www.aparat.com/v/lqbo8",
     "توضیح": "گرافیک به لاینر سایه دادن گرد کردن باتون گرافیک به متن",
     "فرمت پروژه": "",
-    "کد1": "android.graphics.drawable.GradientDrawable sketchwarehelper8375 \u003d new android.graphics.drawable.GradientDrawable();\n\nsketchwarehelper8375.setColor(Color.parseColor(\"#00C853\"));\nsketchwarehelper8375.setCornerRadius(100);\nbutton1.setElevation(50);\nbutton1.setBackground(sketchwarehelper8375);",
+    "کد1": "android.graphics.drawable.GradientDrawable sketchwarehelper8375 = new android.graphics.drawable.GradientDrawable();\n\nsketchwarehelper8375.setColor(Color.parseColor(\"#00C853\"));\nsketchwarehelper8375.setCornerRadius(100);\nbutton1.setElevation(50);\nbutton1.setBackground(sketchwarehelper8375);",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz1.asset.aparat.com/aparat-video/7d2b424f78e3ff755f60babcb870c22a45771203-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjlhNzcxYTA2ZjhiNDMzYmNkMWNmMmFiMGJiODRmMjkyIiwiZXhwIjoxNjU1OTI3NTEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.-edTLuDEzlLEo_Hqcvfll2x0b01hkkho-xfyWyAAzis"
+    "دانلود": "https://hajifirouz1.asset.aparat.com/aparat-video/7d2b424f78e3ff755f60babcb870c22a45771203-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjlhNzcxYTA2ZjhiNDMzYmNkMWNmMmFiMGJiODRmMjkyIiwiZXhwIjoxNjU1OTI3NTEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.-edTLuDEzlLEo_Hqcvfll2x0b01hkkho-xfyWyAAzis"
   },
   {
     "زمان": "01:45",
@@ -23,7 +23,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz8.asset.aparat.com/aparat-video/c8d1e9cf17102a1eaa61b4b1e07438e845772834-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImE0YWIwYjk0OTk2Y2Q5N2MwYmI3Yjk4YWE4MjdmODEyIiwiZXhwIjoxNjU3Mjk4MDkxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.k1LlZSZxhv3xXWvKw8TwcpJ5shejGLPcmKgaHgbT618"
+    "دانلود": "https://hajifirouz8.asset.aparat.com/aparat-video/c8d1e9cf17102a1eaa61b4b1e07438e845772834-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImE0YWIwYjk0OTk2Y2Q5N2MwYmI3Yjk4YWE4MjdmODEyIiwiZXhwIjoxNjU3Mjk4MDkxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.k1LlZSZxhv3xXWvKw8TwcpJ5shejGLPcmKgaHgbT618"
   },
   {
     "زمان": "01:32",
@@ -36,7 +36,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz2.asset.aparat.com/aparat-video/54215571af87500aa7b3858a90ccffd845772186-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImE1MDI3NDhjNDNmNTZjNzY1MzBiZDFlNWI5NjJlZDkyIiwiZXhwIjoxNjU1OTI4MzkyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.npIcdIY_iGDxP8DT3uixH_ojsHnnSifKZv42tNJWSkk"
+    "دانلود": "https://hajifirouz2.asset.aparat.com/aparat-video/54215571af87500aa7b3858a90ccffd845772186-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImE1MDI3NDhjNDNmNTZjNzY1MzBiZDFlNWI5NjJlZDkyIiwiZXhwIjoxNjU1OTI4MzkyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.npIcdIY_iGDxP8DT3uixH_ojsHnnSifKZv42tNJWSkk"
   },
   {
     "زمان": "07:37",
@@ -49,7 +49,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz4.asset.aparat.com/aparat-video/d611b146e58c98417bef20fe72bc064145773426-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImYzMzA0NjdlZWQ3MzdhMGQ0MzU3N2RiZGU0MGJkYzIxIiwiZXhwIjoxNjU1OTI4NzA5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.9auIwq3Sk77EgfVqz9dZBzv5VAS24VW-QIc2moB__N8"
+    "دانلود": "https://hajifirouz4.asset.aparat.com/aparat-video/d611b146e58c98417bef20fe72bc064145773426-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImYzMzA0NjdlZWQ3MzdhMGQ0MzU3N2RiZGU0MGJkYzIxIiwiZXhwIjoxNjU1OTI4NzA5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.9auIwq3Sk77EgfVqz9dZBzv5VAS24VW-QIc2moB__N8"
   },
   {
     "زمان": "2:19",
@@ -62,7 +62,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz6.asset.aparat.com/aparat-video/a990c6fbbb988f3c69c1a246f0a60a3845771810-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjE4OTEwNjQ0ODU1OTZiNDlkZWEzN2M2YTdlZjFlZTc0IiwiZXhwIjoxNjU1OTMwNDQ4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.FWM9Nion3eeyrso_Nn06mgSAE6lil7yV8sR9nzCk9nU"
+    "دانلود": "https://hajifirouz6.asset.aparat.com/aparat-video/a990c6fbbb988f3c69c1a246f0a60a3845771810-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjE4OTEwNjQ0ODU1OTZiNDlkZWEzN2M2YTdlZjFlZTc0IiwiZXhwIjoxNjU1OTMwNDQ4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.FWM9Nion3eeyrso_Nn06mgSAE6lil7yV8sR9nzCk9nU"
   },
   {
     "زمان": "00:47",
@@ -75,7 +75,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz8.asset.aparat.com/aparat-video/f1557c4ffa4e45b1e3c48c36893626f345771708-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjhhNTA3ODkwNGU4MzE0MTQ2MGVjYTRmMDNiZDRhNjk2IiwiZXhwIjoxNjU1OTMxMDE3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.cnoiYhZ_hTkbIeyXJ3ifCQiqVvnM6XBpnS-YQ1CWPUw"
+    "دانلود": "https://hajifirouz8.asset.aparat.com/aparat-video/f1557c4ffa4e45b1e3c48c36893626f345771708-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjhhNTA3ODkwNGU4MzE0MTQ2MGVjYTRmMDNiZDRhNjk2IiwiZXhwIjoxNjU1OTMxMDE3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.cnoiYhZ_hTkbIeyXJ3ifCQiqVvnM6XBpnS-YQ1CWPUw"
   },
   {
     "زمان": "01:04",
@@ -88,7 +88,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz10.asset.aparat.com/aparat-video/704a5fec6108eff81e0f979002033c3845771628-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI3YzcwZDcyMjQzYzY1ZGFlNTU1MjM0ZTQ5OGEzYzdiIiwiZXhwIjoxNjU1OTMxMjUyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.auM3VytVcOmwsVUSSE3vKNvxi7LE4hajxRU4yYOcwCY"
+    "دانلود": "https://hajifirouz10.asset.aparat.com/aparat-video/704a5fec6108eff81e0f979002033c3845771628-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI3YzcwZDcyMjQzYzY1ZGFlNTU1MjM0ZTQ5OGEzYzdiIiwiZXhwIjoxNjU1OTMxMjUyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.auM3VytVcOmwsVUSSE3vKNvxi7LE4hajxRU4yYOcwCY"
   },
   {
     "زمان": "00:51",
@@ -101,7 +101,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz8.asset.aparat.com/aparat-video/df6a8d481728acb66fdcb9ce61b28dbe45771856-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImUzYWE1MWJhZDIwYTZlNjgzOWYwZWJmZDQ1NmI4NWJlIiwiZXhwIjoxNjU1OTMxNjU2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.QXWZUKTWKv6VOp9uzUAKQM8l_XnMbjkJVb3sROu2XdA"
+    "دانلود": "https://hajifirouz8.asset.aparat.com/aparat-video/df6a8d481728acb66fdcb9ce61b28dbe45771856-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImUzYWE1MWJhZDIwYTZlNjgzOWYwZWJmZDQ1NmI4NWJlIiwiZXhwIjoxNjU1OTMxNjU2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.QXWZUKTWKv6VOp9uzUAKQM8l_XnMbjkJVb3sROu2XdA"
   },
   {
     "زمان": "00:36",
@@ -114,7 +114,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz11.asset.aparat.com/aparat-video/2c4924060c30a62f0bea34318d72626045771883-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFiODEwMDEyYjQ3N2YzODQxYzBiZWUyNmU3MDBkZWE1IiwiZXhwIjoxNjU1OTMxODQ5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.2XgX3TAguRvPcd_xO2NyX0Qua3A_-8ZK0MiZEj89RiA"
+    "دانلود": "https://hajifirouz11.asset.aparat.com/aparat-video/2c4924060c30a62f0bea34318d72626045771883-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFiODEwMDEyYjQ3N2YzODQxYzBiZWUyNmU3MDBkZWE1IiwiZXhwIjoxNjU1OTMxODQ5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.2XgX3TAguRvPcd_xO2NyX0Qua3A_-8ZK0MiZEj89RiA"
   },
   {
     "زمان": "03:48",
@@ -127,7 +127,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz4.asset.aparat.com/aparat-video/33bd83c9b6e29b90a91f31083b9603ba45771569-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjllZDBjZWNiMzZjOTlmNzc5ZTY5NzMxMzczMTQxZWNhIiwiZXhwIjoxNjU1OTMyMDc1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jINdY8D5smrGcSeqrqNkR2xzucGPZ2QeD11rEb2IzFw"
+    "دانلود": "https://hajifirouz4.asset.aparat.com/aparat-video/33bd83c9b6e29b90a91f31083b9603ba45771569-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjllZDBjZWNiMzZjOTlmNzc5ZTY5NzMxMzczMTQxZWNhIiwiZXhwIjoxNjU1OTMyMDc1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jINdY8D5smrGcSeqrqNkR2xzucGPZ2QeD11rEb2IzFw"
   },
   {
     "زمان": "01:12",
@@ -140,7 +140,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz6.asset.aparat.com/aparat-video/c728a86a8cd627ef7de904bb6f729a5045771458-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI5MmE2MDk1NzM1MDE3ZWZlYjNhN2U2MzUzMzY3MTQ0IiwiZXhwIjoxNjU1OTMzODgzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.K7pmI3Knx89xkgdqIEvXeuf0TM00dsFkfCkdEJTP62U"
+    "دانلود": "https://hajifirouz6.asset.aparat.com/aparat-video/c728a86a8cd627ef7de904bb6f729a5045771458-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI5MmE2MDk1NzM1MDE3ZWZlYjNhN2U2MzUzMzY3MTQ0IiwiZXhwIjoxNjU1OTMzODgzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.K7pmI3Knx89xkgdqIEvXeuf0TM00dsFkfCkdEJTP62U"
   },
   {
     "زمان": "01:38",
@@ -153,7 +153,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz9.asset.aparat.com/aparat-video/1a000812287349a6a64dab5717618c4745771153-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjIwM2YzMGZjNTU0NGU5MWJmMDhlMjc5NzgwNWVlYjMwIiwiZXhwIjoxNjU2MDA0NTk2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YdoVa_u3HRzmPzCOIB0mRq_PIJGRk-S6zPoglNAE3FA"
+    "دانلود": "https://hajifirouz9.asset.aparat.com/aparat-video/1a000812287349a6a64dab5717618c4745771153-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjIwM2YzMGZjNTU0NGU5MWJmMDhlMjc5NzgwNWVlYjMwIiwiZXhwIjoxNjU2MDA0NTk2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YdoVa_u3HRzmPzCOIB0mRq_PIJGRk-S6zPoglNAE3FA"
   },
   {
     "زمان": "01:45",
@@ -166,7 +166,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz9.asset.aparat.com/aparat-video/89aa7087f780ca54feeebe4a9e491cb345789491-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjgzNDcxMWJlNmU1MTljZWY4YjljODJkNDY3NjNmODdkIiwiZXhwIjoxNjU2MDA0NDgyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.uA48buGkHMcIQEEHyDjAAe3Nql-Yy8ExcVBIB64ydYI"
+    "دانلود": "https://hajifirouz9.asset.aparat.com/aparat-video/89aa7087f780ca54feeebe4a9e491cb345789491-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjgzNDcxMWJlNmU1MTljZWY4YjljODJkNDY3NjNmODdkIiwiZXhwIjoxNjU2MDA0NDgyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.uA48buGkHMcIQEEHyDjAAe3Nql-Yy8ExcVBIB64ydYI"
   },
   {
     "زمان": "03:55",
@@ -179,7 +179,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz12.asset.aparat.com/aparat-video/966651fc4ea87c94296af3bd970bbc9a45795516-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImIzNTgzZWFlNTdkYmUzODIyOWRjN2U4MDNmYzM4MTFhIiwiZXhwIjoxNjU2MDA1NjAwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.i8LMfQyTVRsV13kA-PVMpxk73-WwDuhSEhjX0WtFkbY"
+    "دانلود": "https://hajifirouz12.asset.aparat.com/aparat-video/966651fc4ea87c94296af3bd970bbc9a45795516-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImIzNTgzZWFlNTdkYmUzODIyOWRjN2U4MDNmYzM4MTFhIiwiZXhwIjoxNjU2MDA1NjAwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.i8LMfQyTVRsV13kA-PVMpxk73-WwDuhSEhjX0WtFkbY"
   },
   {
     "زمان": "02:50",
@@ -192,7 +192,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/4ac091d27cfcae1d5139881cccaded8545798174-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjAwYWVmZWRlNDUyMDg2MTAwZDNmOGNkY2M3YmI4MWMzIiwiZXhwIjoxNjU2MjczNzU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.z5V2toRLzbjuHcGdKwu0ZLeFXrnxhT5eqLT35xlcvHI"
+    "دانلود": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/4ac091d27cfcae1d5139881cccaded8545798174-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjAwYWVmZWRlNDUyMDg2MTAwZDNmOGNkY2M3YmI4MWMzIiwiZXhwIjoxNjU2MjczNzU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.z5V2toRLzbjuHcGdKwu0ZLeFXrnxhT5eqLT35xlcvHI"
   },
   {
     "زمان": "15:43",
@@ -205,7 +205,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz6.cdn.asset.aparat.com/aparat-video/ceaeedec7bd7c52be8aea1d4b9cbf49e45866900-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjgxMjRlNzliYzRlM2UxZGNjZmQ1ZWJhMWEzMjYwYzU4IiwiZXhwIjoxNjU2Mjc0NjMyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.61e5nDHVJjC3qdlW8UY2VPCxSHzPaVanVJMq7HyfuJM"
+    "دانلود": "https://hajifirouz6.cdn.asset.aparat.com/aparat-video/ceaeedec7bd7c52be8aea1d4b9cbf49e45866900-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjgxMjRlNzliYzRlM2UxZGNjZmQ1ZWJhMWEzMjYwYzU4IiwiZXhwIjoxNjU2Mjc0NjMyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.61e5nDHVJjC3qdlW8UY2VPCxSHzPaVanVJMq7HyfuJM"
   },
   {
     "زمان": "04:19",
@@ -218,7 +218,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz10.cdn.asset.aparat.com/aparat-video/dcf12616824fe6789eccb29ca563273345867350-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVmYmM3ZjEwMDgxNDk1NTM2NDA0ZjdmNDlmOGM0Yzc5IiwiZXhwIjoxNjU2Mjc1NDM5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.rhrNy8I7z27Bi4_Hvqx-DqqNtD1gCAeuFAmukc-QYNk"
+    "دانلود": "https://hajifirouz10.cdn.asset.aparat.com/aparat-video/dcf12616824fe6789eccb29ca563273345867350-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVmYmM3ZjEwMDgxNDk1NTM2NDA0ZjdmNDlmOGM0Yzc5IiwiZXhwIjoxNjU2Mjc1NDM5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.rhrNy8I7z27Bi4_Hvqx-DqqNtD1gCAeuFAmukc-QYNk"
   },
   {
     "زمان": "01:35",
@@ -228,10 +228,10 @@
     "لینک": "https://www.aparat.com/v/r7LAj",
     "توضیح": "تغییر جهت منو کشویی از سمت راست برنامه",
     "فرمت پروژه": "",
-    "کد1": "_toolbar.setNavigationOnClickListener(new View.OnClickListener() {\n\t\n\t@Override\n\t\n\tpublic void onClick(View _v) {\n\t\t\n\t\t_drawer.openDrawer(Gravity.RIGHT);\n\t\t\n\t}\n\t\n});\n\nLinearLayout _nav_view \u003d (LinearLayout) findViewById(R.id._nav_view);\n\nandroidx.drawerlayout.widget.DrawerLayout\n\n.LayoutParams lp \u003d new androidx.drawerlayout.widget.DrawerLayout\n\n.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT);\n\nlp.gravity\u003dGravity.RIGHT;\n\n_nav_view.setLayoutParams(lp);",
+    "کد1": "_toolbar.setNavigationOnClickListener(new View.OnClickListener() {\n\t\n\t@Override\n\t\n\tpublic void onClick(View _v) {\n\t\t\n\t\t_drawer.openDrawer(Gravity.RIGHT);\n\t\t\n\t}\n\t\n});\n\nLinearLayout _nav_view = (LinearLayout) findViewById(R.id._nav_view);\n\nandroidx.drawerlayout.widget.DrawerLayout\n\n.LayoutParams lp = new androidx.drawerlayout.widget.DrawerLayout\n\n.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT);\n\nlp.gravity=Gravity.RIGHT;\n\n_nav_view.setLayoutParams(lp);",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz12.cdn.asset.aparat.com/aparat-video/56f51b9a731b0ecec20d8964a5b6626f45867368-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRlZTZhYWNhMmRlNWM0YTZlZDRhNjM4NWU5YWIwZGY4IiwiZXhwIjoxNjU2Mjc1NjkwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.ZLryYxw12YHRjgMWyF246M2Gy7oG83IL2qdbF69NTIs"
+    "دانلود": "https://hajifirouz12.cdn.asset.aparat.com/aparat-video/56f51b9a731b0ecec20d8964a5b6626f45867368-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRlZTZhYWNhMmRlNWM0YTZlZDRhNjM4NWU5YWIwZGY4IiwiZXhwIjoxNjU2Mjc1NjkwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.ZLryYxw12YHRjgMWyF246M2Gy7oG83IL2qdbF69NTIs"
   },
   {
     "زمان": "01:52",
@@ -244,7 +244,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/279fb7ece7122ace276f2b15c9cdad5d45867610-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY4ODllZjRlZGRhNWM3ZjAzY2IxN2IwYTBlMDllODc2IiwiZXhwIjoxNjU2Mjc2NjEwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.MCNJfFveCnWtDTsObNyumBqvqoUZcJE2PJBnRFjXwr4"
+    "دانلود": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/279fb7ece7122ace276f2b15c9cdad5d45867610-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY4ODllZjRlZGRhNWM3ZjAzY2IxN2IwYTBlMDllODc2IiwiZXhwIjoxNjU2Mjc2NjEwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.MCNJfFveCnWtDTsObNyumBqvqoUZcJE2PJBnRFjXwr4"
   },
   {
     "زمان": "01:19",
@@ -254,10 +254,10 @@
     "لینک": "https://www.aparat.com/v/Gh50X",
     "توضیح": "تغییر صدای گوشی با سیکبار",
     "فرمت پروژه": "sw",
-    "کد1": "audioManager \u003d (AudioManager) getSystemService(Context.AUDIO_SERVICE); seekbar1.setMax(audioManager.getStreamMaxVolume(AudioManager.STREAM_MUSIC));\n\n}\n\nAudioManager audioManager;\n\nprivate void nothing() {",
+    "کد1": "audioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE); seekbar1.setMax(audioManager.getStreamMaxVolume(AudioManager.STREAM_MUSIC));\n\n}\n\nAudioManager audioManager;\n\nprivate void nothing() {",
     "کد2": "textview1.setText(\"صدای رسانه : \" + _progressValue);\n\naudioManager.setStreamVolume(AudioManager.STREAM_MUSIC, _progressValue, 0);",
     "کد3": "",
-    "دانلود": "https://hajifirouz11.cdn.asset.aparat.com/aparat-video/521da8b560d871dc34e98fd09ba6209a45867875-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjlmODcxMmU3MmFjZjY5YThmNGEyNzUzMmJlMDZjMTA5IiwiZXhwIjoxNjU2Mjc3MjU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.IytnnNgXSqF1lg_adTZBIr-lUZKYzPAlc_wWo7zUelI"
+    "دانلود": "https://hajifirouz11.cdn.asset.aparat.com/aparat-video/521da8b560d871dc34e98fd09ba6209a45867875-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjlmODcxMmU3MmFjZjY5YThmNGEyNzUzMmJlMDZjMTA5IiwiZXhwIjoxNjU2Mjc3MjU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.IytnnNgXSqF1lg_adTZBIr-lUZKYzPAlc_wWo7zUelI"
   },
   {
     "زمان": "01:30",
@@ -270,7 +270,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz9.cdn.asset.aparat.com/aparat-video/462e84bc76f91ac4582bf37e283d4ba645867904-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM0MzEzM2NlNTZkY2IxOTFjNTAxNTI4MzA1NTU0ZjU4IiwiZXhwIjoxNjU2Mjc3NTQzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.REeRkfglQkJ4C8cN9Y952V6QPLO8K2tVEXMfuVPge7Y"
+    "دانلود": "https://hajifirouz9.cdn.asset.aparat.com/aparat-video/462e84bc76f91ac4582bf37e283d4ba645867904-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM0MzEzM2NlNTZkY2IxOTFjNTAxNTI4MzA1NTU0ZjU4IiwiZXhwIjoxNjU2Mjc3NTQzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.REeRkfglQkJ4C8cN9Y952V6QPLO8K2tVEXMfuVPge7Y"
   },
   {
     "زمان": "05:03",
@@ -283,7 +283,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz7.cdn.asset.aparat.com/aparat-video/e7539e0b3663ec83a16ab2d19651c34a45871449-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY4ZTEwNTNmNDRiZDRiYjZlYzY1ZWVhYTRmZWY2ZDkwIiwiZXhwIjoxNjU2Mjg4Njk4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.ex3YmmuDpI7HtHkF-xj8fpDDdHytNBJll1egE0ZYUNU"
+    "دانلود": "https://hajifirouz7.cdn.asset.aparat.com/aparat-video/e7539e0b3663ec83a16ab2d19651c34a45871449-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY4ZTEwNTNmNDRiZDRiYjZlYzY1ZWVhYTRmZWY2ZDkwIiwiZXhwIjoxNjU2Mjg4Njk4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.ex3YmmuDpI7HtHkF-xj8fpDDdHytNBJll1egE0ZYUNU"
   },
   {
     "زمان": "04:22",
@@ -296,7 +296,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/c4aa56aa496747ca0251e904515266fd45871978-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVlNWVmMWJkMTQ2YjBiMWFkNjU3YjU0MGI5NDg1YmE3IiwiZXhwIjoxNjU2MjkwMjE3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.qrsC1ockzejS2sFpwZYHRcWu2ULL3DpUe-yOENDo2bI"
+    "دانلود": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/c4aa56aa496747ca0251e904515266fd45871978-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVlNWVmMWJkMTQ2YjBiMWFkNjU3YjU0MGI5NDg1YmE3IiwiZXhwIjoxNjU2MjkwMjE3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.qrsC1ockzejS2sFpwZYHRcWu2ULL3DpUe-yOENDo2bI"
   },
   {
     "زمان": "01:09",
@@ -309,7 +309,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/d4cffcd8bfcb6217b44212ebd44f33e745871985-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjdjNWYwZTk5ZjcyMjEzYjU0MzA3Mjc3OWVlYmEyMTZhIiwiZXhwIjoxNjU2MjkwNDE3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.3arSVMtAY2G_nUZJdFXkZD0cuwJH6pTLQCM0wTyjgnI"
+    "دانلود": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/d4cffcd8bfcb6217b44212ebd44f33e745871985-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjdjNWYwZTk5ZjcyMjEzYjU0MzA3Mjc3OWVlYmEyMTZhIiwiZXhwIjoxNjU2MjkwNDE3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.3arSVMtAY2G_nUZJdFXkZD0cuwJH6pTLQCM0wTyjgnI"
   },
   {
     "زمان": "01:16",
@@ -322,7 +322,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/2bb440e9aff10a158fd9a80a4bf10b3845871997-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjNkOTcwY2JmNWMyYjEzNzYwMjM0NGEzMDY5MGU3ODdmIiwiZXhwIjoxNjU2MjkwNzc5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.4mdsmC9V7_hpk9Afw0QxfUwzFU-6Qi8A7fm7fPBUoPc"
+    "دانلود": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/2bb440e9aff10a158fd9a80a4bf10b3845871997-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjNkOTcwY2JmNWMyYjEzNzYwMjM0NGEzMDY5MGU3ODdmIiwiZXhwIjoxNjU2MjkwNzc5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.4mdsmC9V7_hpk9Afw0QxfUwzFU-6Qi8A7fm7fPBUoPc"
   },
   {
     "زمان": "04:18",
@@ -335,7 +335,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/09011ef47725de91451cc893b55ebb7345872317-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY2NmMyZDlkZjA5ZjU3ZDQ5ZWI0NDhhZThmYzE4ZTYyIiwiZXhwIjoxNjU2MjkxNjgxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.FxthC7iC-W2yQdenMyz0e6qieWoygx0gdsSOJH6BRlA"
+    "دانلود": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/09011ef47725de91451cc893b55ebb7345872317-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY2NmMyZDlkZjA5ZjU3ZDQ5ZWI0NDhhZThmYzE4ZTYyIiwiZXhwIjoxNjU2MjkxNjgxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.FxthC7iC-W2yQdenMyz0e6qieWoygx0gdsSOJH6BRlA"
   },
   {
     "زمان": "00:47",
@@ -345,10 +345,10 @@
     "لینک": "https://www.aparat.com/v/DYGVs",
     "توضیح": "نمایش دمای باطری گوشی درصد داغی باطری",
     "فرمت پروژه": "",
-    "کد1": "IntentFilter ifilter \u003d new IntentFilter(Intent.ACTION_BATTERY_CHANGED);\nIntent batteryStatus \u003d registerReceiver(null, ifilter);\nint temp \u003d batteryStatus.getIntExtra(BatteryManager.EXTRA_TEMPERATURE,0);\nfloat tempTwo \u003d ((float) temp) / 10;\ntextview1.setText(tempTwo + \" °C\");",
+    "کد1": "IntentFilter ifilter = new IntentFilter(Intent.ACTION_BATTERY_CHANGED);\nIntent batteryStatus = registerReceiver(null, ifilter);\nint temp = batteryStatus.getIntExtra(BatteryManager.EXTRA_TEMPERATURE,0);\nfloat tempTwo = ((float) temp) / 10;\ntextview1.setText(tempTwo + \" °C\");",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz12.cdn.asset.aparat.com/aparat-video/053b04083eac0edfacf11a84410684d645872340-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI5Y2RmNjg4N2JhYjRlYzY4NTkzYTg1Y2RlNzc2NmE3IiwiZXhwIjoxNjU2MjkxOTA1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LHp_ZfuSEPfuNiKtTJ-_dJD2gsZz6KdERIQpDofKAJ8"
+    "دانلود": "https://hajifirouz12.cdn.asset.aparat.com/aparat-video/053b04083eac0edfacf11a84410684d645872340-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI5Y2RmNjg4N2JhYjRlYzY4NTkzYTg1Y2RlNzc2NmE3IiwiZXhwIjoxNjU2MjkxOTA1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LHp_ZfuSEPfuNiKtTJ-_dJD2gsZz6KdERIQpDofKAJ8"
   },
   {
     "زمان": "01:56",
@@ -361,7 +361,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/744651ad693fd56afe9ee32e9c0d6ec045872385-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQwZTYxOGRlZjE2OWJjYzI4Mjk1MmZhOWYyMDAyY2E1IiwiZXhwIjoxNjU2MjkyMjQ5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YDBw0T4p1PvLa-Vt-JZBq1zFlW2tv82YbFf5K6DG65I"
+    "دانلود": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/744651ad693fd56afe9ee32e9c0d6ec045872385-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQwZTYxOGRlZjE2OWJjYzI4Mjk1MmZhOWYyMDAyY2E1IiwiZXhwIjoxNjU2MjkyMjQ5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YDBw0T4p1PvLa-Vt-JZBq1zFlW2tv82YbFf5K6DG65I"
   },
   {
     "زمان": "02:14",
@@ -374,7 +374,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/41c055112095b20cd6793246c752ce5c45925499-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQ2ZDU2ZWQ2MTE3Nzg3ZDkyMmQwYzNlNzBkZGNjYzQ1IiwiZXhwIjoxNjU2NTA2NDY5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.eNYfLYurz7JV4jEpmB__3QDLmmopJrtAmUR6hgroFeg"
+    "دانلود": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/41c055112095b20cd6793246c752ce5c45925499-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQ2ZDU2ZWQ2MTE3Nzg3ZDkyMmQwYzNlNzBkZGNjYzQ1IiwiZXhwIjoxNjU2NTA2NDY5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.eNYfLYurz7JV4jEpmB__3QDLmmopJrtAmUR6hgroFeg"
   },
   {
     "زمان": "01:7",
@@ -387,7 +387,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz7.cdn.asset.aparat.com/aparat-video/da0c846daa27d33acf267633dab123c045925607-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVlNTI1NzU4YTU0MGUxNDBmOTY3YmIxZjA3NWZjNWJlIiwiZXhwIjoxNjU2NTA2NzYxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.f7ITVcQj4G8yx32Djd7Cxw49QRf_lQFFmQpqzd49IBA"
+    "دانلود": "https://hajifirouz7.cdn.asset.aparat.com/aparat-video/da0c846daa27d33acf267633dab123c045925607-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVlNTI1NzU4YTU0MGUxNDBmOTY3YmIxZjA3NWZjNWJlIiwiZXhwIjoxNjU2NTA2NzYxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.f7ITVcQj4G8yx32Djd7Cxw49QRf_lQFFmQpqzd49IBA"
   },
   {
     "زمان": "01:15",
@@ -400,7 +400,7 @@
     "کد1": "((ArrayAdapter)%s.getAdapter()).getFilter().filter(%s.getText().toString());",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/678be7e8ac97ae8ed989c0b37161feb945925648-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA5OWQxNTMxY2RiMGY0NDYxNzFhNWU2YzkxMmFlNGNmIiwiZXhwIjoxNjU2NTA3MjU0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LQj768VoQG2xlbTtyGZJuUULd_UbFFTjaM6PSEvJKX4"
+    "دانلود": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/678be7e8ac97ae8ed989c0b37161feb945925648-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA5OWQxNTMxY2RiMGY0NDYxNzFhNWU2YzkxMmFlNGNmIiwiZXhwIjoxNjU2NTA3MjU0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LQj768VoQG2xlbTtyGZJuUULd_UbFFTjaM6PSEvJKX4"
   },
   {
     "زمان": "02:09",
@@ -413,7 +413,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz7.cdn.asset.aparat.com/aparat-video/cd6db986e9a4f89c54a1997b2fa1e97445925674-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjU5OGEwNDljYzkzZjEyYjVhZTc4MmEzMDNlY2MyZWY1IiwiZXhwIjoxNjU2NTA3Njg0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Y8lTqpx6gEU7rz9O1M_GXZy6HYenWCxQOM-yGTp7p_4"
+    "دانلود": "https://hajifirouz7.cdn.asset.aparat.com/aparat-video/cd6db986e9a4f89c54a1997b2fa1e97445925674-480p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjU5OGEwNDljYzkzZjEyYjVhZTc4MmEzMDNlY2MyZWY1IiwiZXhwIjoxNjU2NTA3Njg0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Y8lTqpx6gEU7rz9O1M_GXZy6HYenWCxQOM-yGTp7p_4"
   },
   {
     "زمان": "01:13",
@@ -426,7 +426,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz6.cdn.asset.aparat.com/aparat-video/60097781816a6067f8e6c14a28bce9ab45925763-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ4ZTBlYzQwNDM4ZTYxNjA4MThmM2RmMTJlMWYwZTkzIiwiZXhwIjoxNjU2NTA4MDM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.lkuanL1sRm77R3of-goYqwbqVuBETLOa2paNMLN7VWA"
+    "دانلود": "https://hajifirouz6.cdn.asset.aparat.com/aparat-video/60097781816a6067f8e6c14a28bce9ab45925763-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ4ZTBlYzQwNDM4ZTYxNjA4MThmM2RmMTJlMWYwZTkzIiwiZXhwIjoxNjU2NTA4MDM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.lkuanL1sRm77R3of-goYqwbqVuBETLOa2paNMLN7VWA"
   },
   {
     "زمان": "00:30",
@@ -439,7 +439,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz11.cdn.asset.aparat.com/aparat-video/81e32cd6b34d70ec616b4d118cb773d945926637-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJmZTc4Y2I2NTY1ODczNzQ0NjBjNGM5YmJhMTAxMTJlIiwiZXhwIjoxNjU2NTA4NzUxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.D6IOi-Av0Np3hzwwwvUXFp7ltifNFeHCUAJD2UE6ISM"
+    "دانلود": "https://hajifirouz11.cdn.asset.aparat.com/aparat-video/81e32cd6b34d70ec616b4d118cb773d945926637-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJmZTc4Y2I2NTY1ODczNzQ0NjBjNGM5YmJhMTAxMTJlIiwiZXhwIjoxNjU2NTA4NzUxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.D6IOi-Av0Np3hzwwwvUXFp7ltifNFeHCUAJD2UE6ISM"
   },
   {
     "زمان": "01:13",
@@ -452,7 +452,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/7178f5cf1b26c5fa82bb098bd0b03ceb45926670-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImNlZTRjYWNlMWZhN2VlZDQ2ODgwMzM0ZDNiNmNmMGFjIiwiZXhwIjoxNjU2NTA5MDkyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.HQ3czR1Oc-BDlii5oi5LfVmqJKPHMFxmKEYRZLnMe3Q"
+    "دانلود": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/7178f5cf1b26c5fa82bb098bd0b03ceb45926670-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImNlZTRjYWNlMWZhN2VlZDQ2ODgwMzM0ZDNiNmNmMGFjIiwiZXhwIjoxNjU2NTA5MDkyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.HQ3czR1Oc-BDlii5oi5LfVmqJKPHMFxmKEYRZLnMe3Q"
   },
   {
     "زمان": "01:02",
@@ -465,7 +465,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/f2e6ca242bf9cdc8603aacd47bfd671845926728-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjE2YTQ4YzVlZGMzMDQwNTFjYTRlOTkxYWY4NjYwZGRhIiwiZXhwIjoxNjU2NTA5MTg1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YR5AUxN_xqimXjT5zf78Ex37zBdeaLfFhC2CcZRs8eU"
+    "دانلود": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/f2e6ca242bf9cdc8603aacd47bfd671845926728-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjE2YTQ4YzVlZGMzMDQwNTFjYTRlOTkxYWY4NjYwZGRhIiwiZXhwIjoxNjU2NTA5MTg1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YR5AUxN_xqimXjT5zf78Ex37zBdeaLfFhC2CcZRs8eU"
   },
   {
     "زمان": "01:21",
@@ -478,7 +478,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz9.cdn.asset.aparat.com/aparat-video/897d07da38fb19d36078bcbfda51cc0e45962554-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ1OWRjMDNiYjEzYjRlNmExZDFjOTQ1NWI4OTQ2MzdlIiwiZXhwIjoxNjU2ODczNTM5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.5KFKemOVC9xXtaJg3uW155S-Ytx2BEf2e7jKq_gxTos"
+    "دانلود": "https://hajifirouz9.cdn.asset.aparat.com/aparat-video/897d07da38fb19d36078bcbfda51cc0e45962554-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ1OWRjMDNiYjEzYjRlNmExZDFjOTQ1NWI4OTQ2MzdlIiwiZXhwIjoxNjU2ODczNTM5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.5KFKemOVC9xXtaJg3uW155S-Ytx2BEf2e7jKq_gxTos"
   },
   {
     "زمان": "00:47",
@@ -501,10 +501,10 @@
     "لینک": "https://www.aparat.com/v/FlVtK",
     "توضیح": "اشتراک گذاری متن در اپلیکیشن های اجتماعی و...",
     "فرمت پروژه": "",
-    "کد1": "Intent shareIntent \u003d new Intent(Intent.ACTION_SEND); shareIntent.setType(\"text/plain\"); shareIntent.putExtra(Intent.EXTRA_TEXT, (\"متن دلخواه\"));\nstartActivity(Intent.createChooser(shareIntent, \"\"));",
+    "کد1": "Intent shareIntent = new Intent(Intent.ACTION_SEND); shareIntent.setType(\"text/plain\"); shareIntent.putExtra(Intent.EXTRA_TEXT, (\"متن دلخواه\"));\nstartActivity(Intent.createChooser(shareIntent, \"\"));",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz12.asset.aparat.com/aparat-video/82808eae562eda6bfb89dcf25badddc546067983-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFiZjU4N2JkNDBmMzYwZmRlYWI1MzRjN2I4ZjJjNDRmIiwiZXhwIjoxNjU3MDU4MDQyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.e2-JcKCx05Rk0MgKxisbC0NchN2Ao4YGuENQkmWQgt8"
+    "دانلود": "https://hajifirouz12.asset.aparat.com/aparat-video/82808eae562eda6bfb89dcf25badddc546067983-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFiZjU4N2JkNDBmMzYwZmRlYWI1MzRjN2I4ZjJjNDRmIiwiZXhwIjoxNjU3MDU4MDQyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.e2-JcKCx05Rk0MgKxisbC0NchN2Ao4YGuENQkmWQgt8"
   },
   {
     "زمان": "00:43",
@@ -517,7 +517,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz1.asset.aparat.com/aparat-video/4a7cf03a8f4c5e844350b56551cf3ad946068009-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImE0YTRiNGJlYjRiYjJhZjljZTJjMzkzOTc5NmIxODczIiwiZXhwIjoxNjU3MDU4MjkyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SWo-IS1OgKdMC6_oTR6tltdi8bgZFpbLqB0AmUzPnDQ"
+    "دانلود": "https://hajifirouz1.asset.aparat.com/aparat-video/4a7cf03a8f4c5e844350b56551cf3ad946068009-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImE0YTRiNGJlYjRiYjJhZjljZTJjMzkzOTc5NmIxODczIiwiZXhwIjoxNjU3MDU4MjkyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SWo-IS1OgKdMC6_oTR6tltdi8bgZFpbLqB0AmUzPnDQ"
   },
   {
     "زمان": "01:08",
@@ -527,10 +527,10 @@
     "لینک": "https://www.aparat.com/v/KDOVb",
     "توضیح": "نمایش برنامه های نصب شده در داخل برنامه و انتخاب حذف آن",
     "فرمت پروژه": "",
-    "کد1": "Intent startupIntent \u003d new Intent(Intent.ACTION_MAIN); \t\tstartupIntent.addCategory(Intent.CATEGORY_LAUNCHER);  \t\tfinal android.content.pm.PackageManager pm \u003d getPackageManager(); \t\tList\u003candroid.content.pm.ResolveInfo\u003e activities \u003d pm.queryIntentActivities(startupIntent,0);   \t\tCollections.sort(activities, new Comparator\u003candroid.content.pm.ResolveInfo\u003e() {  \t\t\t\tpublic int compare(android.content.pm.ResolveInfo a, android.content.pm.ResolveInfo b) {  \t\t\t\t\tandroid.content.pm.PackageManager pm \u003d getPackageManager();  \t\t\t\t\treturn String.CASE_INSENSITIVE_ORDER.compare(  \t\t\t\t\t\ta.loadLabel(pm).toString(),  \t\t\t\t\t\tb.loadLabel(pm).toString());  \t\t\t\t}  \t\t\t});   \t\tArrayAdapter\u003candroid.content.pm.ResolveInfo\u003e adapter \u003d new ArrayAdapter\u003candroid.content.pm.ResolveInfo\u003e(  \t\t\tthis, android.R.layout.simple_list_item_1, activities) {  \t\t\tpublic View getView(int pos, View convertView, ViewGroup parent) { TextView tv \u003d new TextView(MainActivity.this);  \t\t\t\tandroid.content.pm.ResolveInfo ri \u003d getItem(pos);  \t\t\ttv.setText(ri.loadLabel(pm));  \tLinearLayout lin \u003d new LinearLayout(MainActivity.this);ImageView iv \u003d new ImageView(MainActivity.this);iv.setImageDrawable(ri.loadIcon(pm));lin.addView(iv);lin.addView(tv);tv.setGravity(Gravity.CENTER_VERTICAL);tv.setPadding(16,0,0,0);tv.setTextSize(16);tv.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,LinearLayout.LayoutParams.MATCH_PARENT ));LinearLayout.LayoutParams p \u003d\tnew LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,LinearLayout.LayoutParams.MATCH_PARENT);p.width \u003d 70;p.height \u003d 70;p.bottomMargin \u003d 4;p.topMargin \u003d 4;iv.setLayoutParams(p);lin.setPadding(6,6,6,6);return lin;  \t\t\t}  \t\t};  \t\tlistview1.setAdapter(adapter); \t\t \t\tlistview1.setOnItemClickListener(new AdapterView.OnItemClickListener() {  \t\t\t\t@Override \t\t\t\tpublic void onItemClick(AdapterView adapter, View v, int position, long id) \t\t\t\t{ \t\t\t\t\tandroid.content.pm.ResolveInfo resolveInfo \u003d (android.content.pm.ResolveInfo)adapter.getItemAtPosition(position);  \t\t\t\t\tandroid.content.pm.ActivityInfo activityInfo \u003d resolveInfo.activityInfo;  \t\t\t\t\tif (activityInfo \u003d\u003d null) return;  \t\t\t\t\tUri packageURI \u003d Uri.parse(\"package:\".concat(activityInfo.applicationInfo.packageName)); Intent uninstallIntent \u003d new Intent(Intent.ACTION_DELETE, packageURI); startActivity(uninstallIntent); \t\t\t\t}  \t\t\t \t\t});;",
+    "کد1": "Intent startupIntent = new Intent(Intent.ACTION_MAIN); \t\tstartupIntent.addCategory(Intent.CATEGORY_LAUNCHER);  \t\tfinal android.content.pm.PackageManager pm = getPackageManager(); \t\tList<android.content.pm.ResolveInfo> activities = pm.queryIntentActivities(startupIntent,0);   \t\tCollections.sort(activities, new Comparator<android.content.pm.ResolveInfo>() {  \t\t\t\tpublic int compare(android.content.pm.ResolveInfo a, android.content.pm.ResolveInfo b) {  \t\t\t\t\tandroid.content.pm.PackageManager pm = getPackageManager();  \t\t\t\t\treturn String.CASE_INSENSITIVE_ORDER.compare(  \t\t\t\t\t\ta.loadLabel(pm).toString(),  \t\t\t\t\t\tb.loadLabel(pm).toString());  \t\t\t\t}  \t\t\t});   \t\tArrayAdapter<android.content.pm.ResolveInfo> adapter = new ArrayAdapter<android.content.pm.ResolveInfo>(  \t\t\tthis, android.R.layout.simple_list_item_1, activities) {  \t\t\tpublic View getView(int pos, View convertView, ViewGroup parent) { TextView tv = new TextView(MainActivity.this);  \t\t\t\tandroid.content.pm.ResolveInfo ri = getItem(pos);  \t\t\ttv.setText(ri.loadLabel(pm));  \tLinearLayout lin = new LinearLayout(MainActivity.this);ImageView iv = new ImageView(MainActivity.this);iv.setImageDrawable(ri.loadIcon(pm));lin.addView(iv);lin.addView(tv);tv.setGravity(Gravity.CENTER_VERTICAL);tv.setPadding(16,0,0,0);tv.setTextSize(16);tv.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,LinearLayout.LayoutParams.MATCH_PARENT ));LinearLayout.LayoutParams p =\tnew LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,LinearLayout.LayoutParams.MATCH_PARENT);p.width = 70;p.height = 70;p.bottomMargin = 4;p.topMargin = 4;iv.setLayoutParams(p);lin.setPadding(6,6,6,6);return lin;  \t\t\t}  \t\t};  \t\tlistview1.setAdapter(adapter); \t\t \t\tlistview1.setOnItemClickListener(new AdapterView.OnItemClickListener() {  \t\t\t\t@Override \t\t\t\tpublic void onItemClick(AdapterView adapter, View v, int position, long id) \t\t\t\t{ \t\t\t\t\tandroid.content.pm.ResolveInfo resolveInfo = (android.content.pm.ResolveInfo)adapter.getItemAtPosition(position);  \t\t\t\t\tandroid.content.pm.ActivityInfo activityInfo = resolveInfo.activityInfo;  \t\t\t\t\tif (activityInfo == null) return;  \t\t\t\t\tUri packageURI = Uri.parse(\"package:\".concat(activityInfo.applicationInfo.packageName)); Intent uninstallIntent = new Intent(Intent.ACTION_DELETE, packageURI); startActivity(uninstallIntent); \t\t\t\t}  \t\t\t \t\t});;",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz5.asset.aparat.com/aparat-video/03f9bfa42f85c7c77245b94a14f1f13246068209-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRmMmExNGNkMTU2NDZlZDUxZjMxZTZiMDUyOWQ0ZmJkIiwiZXhwIjoxNjU3MDU4NzczLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.bvnuAaoKGgprzE_-5VtrpwFk_6VE4UOZryovyKaaNi0"
+    "دانلود": "https://hajifirouz5.asset.aparat.com/aparat-video/03f9bfa42f85c7c77245b94a14f1f13246068209-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRmMmExNGNkMTU2NDZlZDUxZjMxZTZiMDUyOWQ0ZmJkIiwiZXhwIjoxNjU3MDU4NzczLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.bvnuAaoKGgprzE_-5VtrpwFk_6VE4UOZryovyKaaNi0"
   },
   {
     "زمان": "02:12",
@@ -543,7 +543,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz7.asset.aparat.com/aparat-video/3c4cfc26bb959c106bd41351a459a38146068222-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImVlNWM0Y2NhZGY0MWEzNWJkMzYwYTgxOTczZTI4ODkwIiwiZXhwIjoxNjU3MDU5MDAzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.zbjYg2RkWO9pbhIG9NVUZl6yxY6qd81h71TZWVE_jkI"
+    "دانلود": "https://hajifirouz7.asset.aparat.com/aparat-video/3c4cfc26bb959c106bd41351a459a38146068222-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImVlNWM0Y2NhZGY0MWEzNWJkMzYwYTgxOTczZTI4ODkwIiwiZXhwIjoxNjU3MDU5MDAzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.zbjYg2RkWO9pbhIG9NVUZl6yxY6qd81h71TZWVE_jkI"
   },
   {
     "زمان": "03:35",
@@ -556,7 +556,7 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://caspian4.asset.aparat.com/aparat-video/c6b1fddd369bc97451adc43da8e880ca47482880-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImViZTg1YTY2NTRjOTNhM2Y2YWE0MTNkNWZhZDc4ODAyIiwiZXhwIjoxNjc2MzUyNDI4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.XgBjq7yPMyKoDdM2gmi6n9CxmO9RCWQmoL99lfGbes0"
+    "دانلود": "https://caspian4.asset.aparat.com/aparat-video/c6b1fddd369bc97451adc43da8e880ca47482880-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImViZTg1YTY2NTRjOTNhM2Y2YWE0MTNkNWZhZDc4ODAyIiwiZXhwIjoxNjc2MzUyNDI4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.XgBjq7yPMyKoDdM2gmi6n9CxmO9RCWQmoL99lfGbes0"
   },
   {
     "زمان": "01:49",
@@ -569,20 +569,20 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://persian3.asset.aparat.com/aparat-video/0d7f2fa343c11a77a1698018dd9d2e8347236673-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVhZGZmZTQxMjhkMzE1OTVjMWE4YjRjNGVhNDA5OTczIiwiZXhwIjoxNjc2MzUyOTY4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Y9W4Vw96xDF2FgiYoCnxyqM2yWBdXritAqWbbczWiic"
+    "دانلود": "https://persian3.asset.aparat.com/aparat-video/0d7f2fa343c11a77a1698018dd9d2e8347236673-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVhZGZmZTQxMjhkMzE1OTVjMWE4YjRjNGVhNDA5OTczIiwiZXhwIjoxNjc2MzUyOTY4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Y9W4Vw96xDF2FgiYoCnxyqM2yWBdXritAqWbbczWiic"
   },
   {
     "زمان": "08:09",
-    "پروژه": "",
+    "پروژه": "دریافت حجم فایل",
     "سطح": "حرفه‌ای",
     "متن": "دریافت حجم فایل",
     "لینک": "https://www.aparat.com/v/aKsgV",
     "توضیح": "با انتخاب فایل از بین فایل های گوشی برنامه میتواند حجم فایل انتخاب شده را دریافت کند",
-    "فرمت پروژه": "",
-    "کد1": "/*\nsketchware jaek\n*/\nfile \u003d new java.io.File(_r);\n    if (file \u003d\u003d null || !file.exists())\n        return 0;\n    if (!file.isDirectory())\n        return file.length();\n    final List\u003cjava.io.File\u003e dirs \u003d new LinkedList\u003c\u003e();\n    dirs.add(file);\n    long result \u003d 0;\n    while (!dirs.isEmpty()) {\n        final java.io.File dir \u003d dirs.remove(0);\n        if (!dir.exists())\n            continue;\n        final java.io.File[] listFiles \u003d dir.listFiles();\n        if (listFiles \u003d\u003d null || listFiles.length \u003d\u003d 0)\n            continue;\n        for (final java.io.File child : listFiles) {\n            result +\u003d child.length();\n            if (child.isDirectory())\n                dirs.add(child);\n        }\n    }\n    return result;\n\t}\n\tprivate java.io.File file;\n\t{",
+    "فرمت پروژه": "sw",
+    "کد1": "/*\nsketchware jaek\n*/\nfile = new java.io.File(_r);\n    if (file == null || !file.exists())\n        return 0;\n    if (!file.isDirectory())\n        return file.length();\n    final List<java.io.File> dirs = new LinkedList<>();\n    dirs.add(file);\n    long result = 0;\n    while (!dirs.isEmpty()) {\n        final java.io.File dir = dirs.remove(0);\n        if (!dir.exists())\n            continue;\n        final java.io.File[] listFiles = dir.listFiles();\n        if (listFiles == null || listFiles.length == 0)\n            continue;\n        for (final java.io.File child : listFiles) {\n            result += child.length();\n            if (child.isDirectory())\n                dirs.add(child);\n        }\n    }\n    return result;\n\t}\n\tprivate java.io.File file;\n\t{",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz10.cdn.asset.aparat.com/aparat-video/607e714439c4427473c5ca4d546f701350604475-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjdlZTE1Y2EyNGQ1ODhiNDdhOWMwZmMwNGQ5YzRhMWEzIiwiZXhwIjoxNjc3MTk3ODc5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.fqMM3EeIMcqmLPX_G0RINCc7j02bru82ObhedUdnBss"
+    "دانلود": "https://hajifirouz10.cdn.asset.aparat.com/aparat-video/607e714439c4427473c5ca4d546f701350604475-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjdlZTE1Y2EyNGQ1ODhiNDdhOWMwZmMwNGQ5YzRhMWEzIiwiZXhwIjoxNjc3MTk3ODc5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.fqMM3EeIMcqmLPX_G0RINCc7j02bru82ObhedUdnBss"
   },
   {
     "زمان": "01:49",
@@ -595,6 +595,6 @@
     "کد1": "",
     "کد2": "",
     "کد3": "",
-    "دانلود": "https://hajifirouz8.cdn.asset.aparat.com/aparat-video/716f56a3cff29aca191ed2fd5766eb8050621214-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImJiYjJjNTI5ODgzNzkwZGQ0NDY0ZmJhMGVkYmJmNjJlIiwiZXhwIjoxNjc3MjUyNzY2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.NKnB9BaUfaWZWtqo4fFX_pPlG6ifNTxJzV1PDRkYDsM"
+    "دانلود": "https://hajifirouz8.cdn.asset.aparat.com/aparat-video/716f56a3cff29aca191ed2fd5766eb8050621214-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImJiYjJjNTI5ODgzNzkwZGQ0NDY0ZmJhMGVkYmJmNjJlIiwiZXhwIjoxNjc3MjUyNzY2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.NKnB9BaUfaWZWtqo4fFX_pPlG6ifNTxJzV1PDRkYDsM"
   }
 ] 
