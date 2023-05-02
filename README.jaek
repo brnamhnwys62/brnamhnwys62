@@ -622,5 +622,18 @@
     "کد2": "linear2.setBackgroundColor(Color.parseColor(_data.get((int)_position).get(\"color\").toString()));",
     "کد3": "",
     "دانلود": ""
+  },
+  {
+    "زمان": "03:15",
+    "پروژه": "",
+    "سطح": "حرفه‌ای",
+    "متن": "مخفی کردن نوار پایین گوشی و خروج",
+    "لینک": "https://www.aparat.com/v/j9pae",
+    "توضیح": "خروج از برنامه با دو بار کلیک بر روی دکمه خروج گوشی و مخفی کردن نوار پایین گوشی در برنامه\nدو اموزش متفاوت",
+    "فرمت پروژه": "",
+    "کد1": "getWindow().getDecorView()\n  .setSystemUiVisibility(\n    View.SYSTEM_UI_FLAG_HIDE_NAVIGATION | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY\n  );",
+    "کد2": "",
+    "کد3": "",
+    "دانلود": "https://hajifirouz17.cdn.asset.aparat.com/aparat-video/95d68f0c5b774ffcb5802abdc2b4bc5751892053-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFhNDU4Y2VmNTc5MzViOTI3MWY1MTRiZjk1NDcyN2EwIiwiZXhwIjoxNjgzMDY2MjU1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.JH0MCWqAvB8tV64H4c3X9Y_9vhSsefSxAvJwlJiJrK0"
   }
 ]
